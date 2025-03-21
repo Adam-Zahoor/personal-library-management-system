@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Journey to the center of the Earth",
+    "author": "Jules Verne",
+    "Publication_Year": 1864,
+    "Genre": "Adventure",
+    "Read_Status": False 
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Bronte",
+    "Publication_Year": 1847,
+    "Genre": "Gothic Fiction",
+    "Read_Status": True 
+  },
+  {
+    "title": "Diary of a Wimpy Kid: Dog Days",
+    "author": "Jeff Kinney",
+    "Publication_Year": 2009,
+    "Genre": "Comedy",
+    "Read_Status": True 
+  },
+  
+  {
+    "title": "Diary of a Wimpy Kid: Rodrick Rules",
+    "author": "Jeff Kinney",
+    "Publication_Year": 2008,
+    "Genre": "Comedy",
+    "Read_Status": False
+  }
+]
